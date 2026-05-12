@@ -1,27 +1,34 @@
-# 💫 About Me:
-I am studying BE of CSE department at SJCE<br>I am love to code <br>I am trying to involve in cyber security<br>I hace the hobby of coding
+# Hi there, I'm Shashank J 👋
 
+### 🚀 Full-Stack MERN Developer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shashank.08042006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shashank Shashi) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shashankcodelover &theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shashankcodelover &theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankcodelover &theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shashankcodelover &theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shashankcodelover &limit=5&theme=dark&combine_all_yearly_contributions=true)
+Welcome to my GitHub! I am a passionate software developer focused on building scalable web applications and writing clean, efficient code.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shashankcodelover &icon=8&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+* 🎓 Engineering student at **Sri Jayachamarajendra College Of Engineering (SJCE), JSSSTU** maintaining a strong **8.67 CGPA**.
+* 💻 Focused on mastering the **MERN Stack**, currently building robust backends in **Node v25.8.1**.
+* 🌍 Currently developing a **Decentralized Disaster Response Resource Geofencing System**.
+* 🤝 **Open to Collaboration:** Always eager to contribute via **PRs** on interesting open-source projects and collaborate with other developers.
+* 🚀 Consistently building a strong foundation of projects and upskilling to tackle complex engineering challenges. 
+
+---
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** JavaScript, Python, Java, C++, C
+* **Frontend:** React
+* **Backend:** Node.js, Express
+* **Database:** MongoDB
+* **Tools & Environments:** Docker, Git, GitHub, VS Code
+
+---
+
+### ⚡ GitHub Stats
+![Shashank J's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashankcodelover&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankcodelover&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Let's Connect!
+* **LinkedIn:** [shashank-j-code-lover](https://www.linkedin.com/in/shashank-j-code-lover/)
