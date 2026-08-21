@@ -10,7 +10,7 @@ Welcome to my GitHub! I am a passionate software developer focused on building s
 * 🎓 Engineering student at **JSS Science and Technology University (SJCE)**, Mysuru — B.E. Computer Science & Engineering, 2024–2028, maintaining a **8.4 CGPA**.
 * 💻 Focused on mastering the **MERN Stack**, currently building robust backends in **Node.js**.
 * 🌍 Currently developing a **Decentralized Disaster Response Resource Geofencing System**.
-* 🏆 Secured **Top 7 in the Cybersecurity domain track** at Technotsav 2026, a 24-hour national hackathon (IEEE Computational Intelligence Society, VVCE Mysuru).
+* 🏆 Participated ** Cybersecurity domain track** at Technotsav 2026, a 24-hour national hackathon (IEEE Computational Intelligence Society, VVCE Mysuru).
 * 🎗️ Volunteered as an **Organizer at HACK-OLYMPIC 2026**, a 24-hour national-level hackathon at JSS STU.
 * 🤝 **Open to Collaboration:** Active open-source contributor — earned GitHub's **Pull Shark** achievement for merged pull requests. Always eager to contribute via PRs on interesting open-source projects.
 * 📢 **PR Team Member** at Persona Plus Club.
@@ -58,6 +58,13 @@ Welcome to my GitHub! I am a passionate software developer focused on building s
 
 ![Shashank J's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashankcodelover&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankcodelover&layout=compact&theme=tokyonight)
+### 📊 GitHub Overview & Top Languages
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shashankcodelover/github-stats-transparent/output/generated/overview.svg" alt="Overview Stats" width="49%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/Shashankcodelover/github-stats-transparent/output/generated/languages.svg" alt="Language Stats" width="49%" />
+</p>
 
 ---
 
