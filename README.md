@@ -1,17 +1,40 @@
-# Hi there, I'm Shashank J 👋
-### 🚀 Full-Stack MERN Developer | AI & ML Enthusiast
+<h1 align="center">Hi 👋, I'm Shashank J</h1>
+<h3 align="center">Full-Stack MERN Developer | Agentic AI & GenAI Builder</h3>
 
-Welcome to my GitHub! I am a passionate software developer focused on building scalable web applications and writing clean, efficient code — currently expanding into applied machine learning and agentic AI.
+- 🎓 B.E. Computer Science & Engineering, JSS Science and Technology University (SJCE), Mysuru | 2024–2028 | CGPA: 8.4/10
+- 🚀 9+ active projects spanning full-stack web, agentic AI, and distributed systems
+- 🏆 6 hackathons attended (Technotsav, HACK-OLYMPIC — Coordinator, Vibe with India 2.0, HackOS-ONE, ViCoDathon, Google Cloud Agentic AI Day)
+- 🌱 Currently deepening ML fundamentals (NumPy, Pandas, scikit-learn, TensorFlow) and Agentic AI orchestration
+- 📫 shashank.j8426@gmail.com
+
+### 🔨 Featured Projects
+- **[NetPulse](https://github.com/Shashankcodelover/NetPlus-CRM-)** — personal CRM for network follow-ups, Next.js 14 + Supabase
+- **[CampusSearch](https://github.com/Shashankcodelover/Campus-Search)** — campus marketplace for reusable project parts, anti-scam matching flow
+- **[Phoenix](https://github.com/Shashankcodelover/Phoenix-Interview-Prep_and_Hackathon_Guide)** — hackathon discovery + AI-driven interview prep suite
+- **[FLARE](https://github.com/Shashankcodelover/Decentralized-Disaster-Response-Resource-Geofencing-System)** — offline-first disaster response coordination via WebRTC + Yjs CRDTs
+- **[ArchitectAI Studio](https://github.com/Shashankcodelover/ArchitectAI-Studio)** — agentic system-design canvas, LangGraph multi-agent
+- **[RegulAIte](https://github.com/Shashankcodelover/regulaite-ai)** — AI contract risk analyzer ([live demo](https://lnkd.in/gaERH9Ya))
+- **[AEGIS](https://github.com/Shashankcodelover/Aegis)** — Zero-Trust Synchronization Engine, WebRTC + WASM behavioral proofs
+
+### 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### 📜 Certifications
+Mimo Full-Stack Development · LinkedIn Learning (Generative AI) · BCG X GenAI Job Simulation · Deloitte Data Analytics Job Simulation · Commit31 Open-Source Program · DCA (Edukare ITES)
+
+### 🔗 Links
+[Portfolio](https://shashankj.tech) · [LinkedIn](https://www.linkedin.com/in/shashank-j-code-lover/) · [Resume](https://drive.google.com/drive/folders/1QbfCI4CW0nBBsTdv7rkzWqCBmiq-Aacg)
 
 ---
-
-### 👨‍💻 About Me
-
-* 🎓 Engineering student at **JSS Science and Technology University (SJCE)**, Mysuru — B.E. Computer Science & Engineering, 2024–2028, maintaining a **8.4 CGPA**.
-* 💻 Focused on mastering the **MERN Stack**, currently building robust backends in **Node.js**.
-* 🌍 Currently developing a **Decentralized Disaster Response Resource Geofencing System**.
-* 🏆 Participated ** Cybersecurity domain track** at Technotsav 2026, a 24-hour national hackathon (IEEE Computational Intelligence Society, VVCE Mysuru).
-* 🎗️ Volunteered as an **Organizer at HACK-OLYMPIC 2026**, a 24-hour national-level hackathon at JSS STU.
+⚠️ Before pasting this in: pick ONE LinkedIn URL across all your properties — this file uses `shashank-j-code-lover`, but confirm that's the one you're keeping, since two other variants exist elsewhere.
 * 🤝 **Open to Collaboration:** Active open-source contributor — earned GitHub's **Pull Shark** achievement for merged pull requests. Always eager to contribute via PRs on interesting open-source projects.
 * 📢 **PR Team Member** at Persona Plus Club.
 * 🚀 Consistently building a strong foundation of projects and upskilling to tackle complex engineering challenges.
